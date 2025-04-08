@@ -21,8 +21,7 @@
 
 - 🧠 Specializing in React, Angular, and Node.js  
 - 🧰 Developed custom tools in the Israeli Air Force that **saved hours of daily IT workload**  
-- 🧑‍🤝‍🧑 Contributed to a volunteer project recognized with an **IT Award for excellence**  
-- 🎤 Delivered educational programs and led workshops as a representative of the **Jewish Agency in Canada**
+- 🧑‍🤝‍🧑 Contributed to a volunteer project recognized with an **IT Award for excellence in computing**  
 
 ---
 
